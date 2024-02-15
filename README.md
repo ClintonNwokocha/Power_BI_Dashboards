@@ -4,9 +4,7 @@ Welcome to my Power BI projects repository! Here, you'll find a series of Power 
 
 ## Projects Overview
 
-- `SalesPerformanceDashboard`: An interactive dashboard to analyze sales data.
-- `CustomerInsights`: Visualizations that provide insights into customer behavior.
-- `InventoryManagement`: A dashboard to track and manage inventory levels.
+- ### Inclusive Health Visualizations: a collaborative project between Viz for Social Good and the World Health Organization (WHO) aimed at breaking down barriers to health equity through disability inclusion. The project's goal is to transform data into accessible visualizations that advocate for the rights of individuals with disabilities to attain the highest possible standard of health and well-being.
 
 ## Skills Demonstrated
 
